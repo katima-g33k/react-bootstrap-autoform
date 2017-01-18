@@ -1,0 +1,27 @@
+{
+  "name": "react-bootstrap-autoform",
+  "version": "0.1.0",
+  "description": "A React-Bootstrap auto-generating form.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/katima-g33k/react-bootstrap-autoform"
+  },
+  "author": "Jessy Lachapelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katima-g33k/react-bootstrap-autoform/issues"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-bootstrap": "^0.30.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
